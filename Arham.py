@@ -88,7 +88,7 @@ SSS    S*S  S*S    SSS  SSS    S*S  SSS    S*S  SSS     S*S
 \033[1;92m-----------------------------------------------
 \033[1;93m OWNER IZ : ALI ARHAM
 \033[1;94m WATSAPP  : +92184067645
-\033[1;92m THANKS TO:AWAIS KHAN
+\033[1;92m lover:ARHAM X3 MARYAM 😍
 \033[1;96m-----------------------------------------------
 \033[1;95m Facebook : https://www.facebook.com/profile.php?id=100058333231068
 \033[1;97m-----------------------------------------------
@@ -111,7 +111,7 @@ def main():
  
     print("")
  
-    print("\033[0;91m[BSDK START KRO]").center(50)
+    print("\033[0;91m[ARHAM START KRO]").center(50)
  
     print("")
  
@@ -139,7 +139,7 @@ def main_select():
  
     if Awais =="2":
  
-        os.system("xdg-open https://www.facebook.com/Mohmand.awais")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100058333231068")
  
 	main()  
  
@@ -221,7 +221,7 @@ def login_select():
  
             time.sleep(1)
  
-	    os.system("xdg-open https://youtu.be/ZgysgbT7H5Y")
+	    os.system("xdg-open https://www.facebook.com/profile.php?id=100058333231068")
 	
  
 	    time.sleep(1)
@@ -242,7 +242,7 @@ def login_select():
  
     elif Awais =="2":
  
-        os.system("xdg-open https://www.facebook.com/Mohmand.awais")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100058333231068")
  
     elif Awais =="3":
  
